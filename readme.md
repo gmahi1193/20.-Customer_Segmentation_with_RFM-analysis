@@ -1,0 +1,1 @@
+This project is about customer segments as per the Recency,Frequency and Monetary (RFM) analysis by analyzing the data
